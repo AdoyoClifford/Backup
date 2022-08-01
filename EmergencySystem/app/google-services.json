@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029841274809",
+    "project_id": "call-e5080",
+    "storage_bucket": "call-e5080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029841274809:android:92c7b942258a648b241868",
+        "android_client_info": {
+          "package_name": "com.example.emergencysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029841274809-14clgi3q1h6ueahi9h04scajbucqg4c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emergencysystem",
+            "certificate_hash": "9435d23038f12f340ac8b7b458772d677f2f65e9"
+          }
+        },
+        {
+          "client_id": "1029841274809-6067vrgqamqamga0h4ufappj9i1mdnng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy72Zg6t4WBgGCrkH6AnVXlPYtlZ3fu4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029841274809-6067vrgqamqamga0h4ufappj9i1mdnng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
